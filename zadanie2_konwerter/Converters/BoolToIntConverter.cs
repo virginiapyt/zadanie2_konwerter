@@ -26,5 +26,6 @@ namespace zadanie2_konwerter.Converters
             throw new NotImplementedException();
             
         }
+        //ten konwerter jest uniwersalny bo uwzględnia typ zwracany
     }
 }
